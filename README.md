@@ -4,6 +4,7 @@ Repository for the paper <i>"Emergency care for non-COVID-19 cases during and af
 ## Installing Requirements
 The code is implemented in <i>Python 3.10.11</i>. Thus the system must have Python 3.10.11 installed.
 If Python is installed, Clone the repository, and install the requirements using the following command in the terminal in repository directory:
+
 ```pip install -r requirements.txt```
 
 
